@@ -1,0 +1,29 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "pog:item/0"
+  },
+  "overrides": [
+    { "predicate": { "pog:pog_level": 0.0 }, "model": "pog:item/lvl/0" },
+    { "predicate": { "pog:pog_level": 0.01 }, "model": "pog:item/lvl/1" },
+    { "predicate": { "pog:pog_level": 0.02 }, "model": "pog:item/lvl/2" },
+    { "predicate": { "pog:pog_level": 0.03 }, "model": "pog:item/lvl/3" },
+    { "predicate": { "pog:pog_level": 0.04 }, "model": "pog:item/lvl/4" },
+    { "predicate": { "pog:pog_level": 0.05 }, "model": "pog:item/lvl/5" },
+    { "predicate": { "pog:pog_level": 0.06 }, "model": "pog:item/lvl/6" },
+    { "predicate": { "pog:pog_level": 0.07 }, "model": "pog:item/lvl/7" },
+    { "predicate": { "pog:pog_level": 0.08 }, "model": "pog:item/lvl/8" },
+    { "predicate": { "pog:pog_level": 0.09 }, "model": "pog:item/lvl/9" },
+    { "predicate": { "pog:pog_level": 0.10 }, "model": "pog:item/lvl/10" },
+    { "predicate": { "pog:pog_level": 0.11 }, "model": "pog:item/lvl/11" },
+    { "predicate": { "pog:pog_level": 0.12 }, "model": "pog:item/lvl/12" },
+    { "predicate": { "pog:pog_level": 0.13 }, "model": "pog:item/lvl/13" },
+    { "predicate": { "pog:pog_level": 0.14 }, "model": "pog:item/lvl/14" },
+    { "predicate": { "pog:pog_level": 0.15 }, "model": "pog:item/lvl/15" },
+    { "predicate": { "pog:pog_level": 0.16 }, "model": "pog:item/lvl/16" },
+    { "predicate": { "pog:pog_level": 0.17 }, "model": "pog:item/lvl/17" },
+    { "predicate": { "pog:pog_level": 0.18 }, "model": "pog:item/lvl/18" },
+    { "predicate": { "pog:pog_level": 0.19 }, "model": "pog:item/lvl/19" },
+    { "predicate": { "pog:pog_level": 0.20 }, "model": "pog:item/lvl/19" }
+  ]
+}
